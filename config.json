@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchderify",
+        "uuid": 17175103,
+        "checksum": "5ne1"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
